@@ -8,9 +8,7 @@ coid
 .. image:: https://coveralls.io/repos/bninja/ciao/badge.png
    :target: https://coveralls.io/r/bninja/ciao
 
-Simple resource throttling.
-
-Get it:
+Simple resource throttling. Get it:
 
 .. code:: bash
 
