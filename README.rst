@@ -1,12 +1,12 @@
 ====
-coid
+ciao
 ====
 
 .. image:: https://travis-ci.org/bninja/ciao.png
    :target: https://travis-ci.org/bninja/ciao
 
 .. image:: https://coveralls.io/repos/bninja/ciao/badge.png
-   :target: https://coveralls.io/r/bninja/ciao
+   :target: https://coveralls.io/r/bninja/ciao 
 
 Simple resource throttling. Get it:
 
