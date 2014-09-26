@@ -24,7 +24,7 @@ def logging_level():
         'd': logging.DEBUG, 'debug': logging.DEBUG,
         'i': logging.INFO, 'info': logging.INFO,
         'w': logging.WARN, 'warn': logging.WARN,
-    }[os.environ.get('SKRILL_TEST_LOG', 'info').lower()]
+    }[os.environ.get('CIAO_TEST_LOG', 'info').lower()]
 
 
 @pytest.fixture(scope='session', autouse=True)
